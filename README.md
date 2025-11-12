@@ -8,8 +8,7 @@ My Intro: 1. My name is Daksh Pathariya
 
 
 Any story or incident abt college that you stumbled upon: 1. About a suicide case and thinking who is next now ,after joining FOSS it may be me . 
-                                                          2. About PMC ---> the place for which i was very excited before coming to college but now very jealous of it .
-                                                          3. Reality of ECE placements in core sector----> i come to this college because of only one reason median pakage of ECE and  the  only thing is missing now
-                                                          .
+                                                          2. About PMC ---> jis cheez ke liye college aane se phele khush tha usi ko dekh kar dukh hota hai .......
+                                                          3. Reality of ECE placements in core sector----> jo cheez dekh ke mai yaha aya tha jo ki hai pakage of ece placement wahi gayab hai.                        .
 
-Anything that you wanna say or something funny you wanna tell: That I am in one of the best college in context of coding and CP and I didn't even learn C language.
+Anything that you wanna say or something funny you wanna tell: Ki ye college coding and competitive coding ke liye famous hai and mujhe c bhi nahi aati.......
