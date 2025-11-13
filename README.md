@@ -7,7 +7,7 @@ My Intro: 1. My name is Daksh Pathariya
           5. My Jee rank is 13k and advanced rank is 21k
 
 
-Any story or incident abt college that you stumbled upon: 1. About a suicide case and thinking who is next now ,after joining FOSS it may be me . 
+Any story or incident abt college that you stumbled upon: 1. ----------------------------------------------------------------------------------- 
                                                           2. About PMC ---> jis cheez ke liye college aane se phele khush tha usi ko dekh kar dukh hota hai .......
                                                           3. Reality of ECE placements in core sector----> jo cheez dekh ke mai yaha aya tha jo ki hai pakage of ece placement wahi gayab hai.                        .
 
